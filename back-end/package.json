@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mosca": "^2.8.3"
+  },
+  "name": "back-end",
+  "version": "1.0.0",
+  "main": "broker.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
